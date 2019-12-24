@@ -30,7 +30,7 @@ public class Actions implements ActionListener, KeyListener, MouseListener, Item
 		JOptionPane.showMessageDialog(null, "Creator: Rin Minase (Akasaka Ryuunosuke in the real world)\n\n" +
 			"Those who ask rude questions such as 'How old are you supposed to be?' will be firmly punished.\n" +
 			"I am not 'supposed to be' anything! (duh!)\n\n" +
-			"From : Maid-chan", "メイドーちゃん (Maid-chan)", 0, new ImageIcon(getClass().getResource("img/tray-128x83.png"))); 
+			"From : Maid-chan", "メイド�?�ゃん (Maid-chan)", 0, new ImageIcon(getClass().getResource("img/tray-128x83.png"))); 
 		//new ImageIcon("./img/anidb/tray-128x83.png")
 	}
 	
@@ -249,7 +249,7 @@ public class Actions implements ActionListener, KeyListener, MouseListener, Item
 //			int confirmAns = JOptionPane.showConfirmDialog(null, "Rin-sama,\n" +
 //								"this would be the data that will be sent to your Anime Database.\n" +
 //								"Would this be the correct values for it, please recheck?\n\n" + toBeSentData + "\n\n" +
-//								"From : Maid-chan", "メイド�?�ゃん (Maid-chan)", JOptionPane.YES_NO_OPTION, 0, 
+//								"From : Maid-chan", "メイド�?�ゃん (Maid-chan)", JOptionPane.YES_NO_OPTION, 0, 
 //								new ImageIcon(getClass().getResource("img/tray-128x83.png")));
 //			
 //			System.out.println(confirmAns);
@@ -263,7 +263,7 @@ public class Actions implements ActionListener, KeyListener, MouseListener, Item
 //	//		JOptionPane.showMessageDialog(null, "Rin-sama,\n" +
 //	//				"this would be the data that will be sent to your Anime Database.\n" +
 //	//				"Would this be the correct values for it, please recheck?\n\n" + toBeSentData + "\n\n" +
-//	//				"From : Maid-chan", "メイド�?�ゃん (Maid-chan)", 0, new ImageIcon(getClass().getResource("img/tray-128x83.png"))); 
+//	//				"From : Maid-chan", "メイド�?�ゃん (Maid-chan)", 0, new ImageIcon(getClass().getResource("img/tray-128x83.png"))); 
 //		}
 		
 		if (arg0.getActionCommand().equals("comboBoxChanged")) {
@@ -314,7 +314,7 @@ public class Actions implements ActionListener, KeyListener, MouseListener, Item
 			int confirmAns = JOptionPane.showConfirmDialog(null, "Rin-sama,\n" +
 								"this would be the data that will be sent to your Anime Database.\n" +
 								"Would this be the correct values for it, please recheck?\n\n" + toBeSentData + "\n\n" +
-								"From : Maid-chan", "メイド�?�ゃん (Maid-chan)", JOptionPane.YES_NO_OPTION, 0, 
+								"From : Maid-chan", "メイド�?�ゃん (Maid-chan)", JOptionPane.YES_NO_OPTION, 0, 
 								new ImageIcon(getClass().getResource("img/tray-128x83.png")));
 			
 			System.out.println(confirmAns);
@@ -328,7 +328,7 @@ public class Actions implements ActionListener, KeyListener, MouseListener, Item
 //			JOptionPane.showMessageDialog(null, "Rin-sama,\n" +
 //					"this would be the data that will be sent to your Anime Database.\n" +
 //					"Would this be the correct values for it, please recheck?\n\n" + toBeSentData + "\n\n" +
-//					"From : Maid-chan", "メイド�?�ゃん (Maid-chan)", 0, new ImageIcon(getClass().getResource("img/tray-128x83.png"))); 
+//					"From : Maid-chan", "メイド�?�ゃん (Maid-chan)", 0, new ImageIcon(getClass().getResource("img/tray-128x83.png"))); 
 		}
 		
 	}
