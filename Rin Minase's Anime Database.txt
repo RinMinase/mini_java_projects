@@ -1,0 +1,158 @@
+FHD 1080p	Baka to Test to Shoukanjuu	13			7.33 GB	Finished	Finished	Nov 14, 2013	Winter 2010	05	13	17
+FHD 1080p	Bakemonogatari	15			12.60 GB	Not Finished	Not Finished		Summer 2009	00	00	00
+FHD 1080p	Clannad	24			20.85 GB	Not Finished	Not Finished		Fall 2007	00	00	00
+FHD 1080p	Kampfer	14			8.40 GB	Not Finished	Not Finished		Fall 2009	00	00	00
+FHD 1080p	K-On! Movie - Eiga K-On!	1			2.94 GB	Not the first season	Finished	Jan 25, 2013	Fall 2011	00	00	00
+FHD 1080p	Mirai Nikki	26			58.79 GB	Finished	Finished	Mar 10, 2013	Fall 2011	10	36	27
+FHD 1080p	Ookami-san to Shichinin no Nakama-tachi	12			4.48 GB	Not Finished	Not Finished		Summer 2010	00	00	00
+FHD 1080p	Puella Magi Madoka Magica	12			19.02 GB	Finished	Finished	Apr 02, 2013		04	55	58
+FHD 1080p	Seitokai Yakuindomo	13			7.45 GB	Finished	Finished	Apr 19, 2013	Summer 2010	05	07	29
+FHD 1080p	Shiki	22				Not Finished	Not Finished			00	00	00
+FHD 1080p	Sora no Woto	13			7.24 GB	Not Finished	Not Finished			00	00	00
+FHD 1080p	Suzumiya Haruhi-chan no Yuuutsu	25			4.47 GB	Not the first season	Finished	Oct 22, 2012		00	00	00
+FHD 1080p	Yosuga no Sora - In Soltitude We are Alone	12			8.86 GB	Finished	Finished	Sep 07, 2012	Fall 2010	00	00	00
+FHD 1080p	Yuru Yuri	12		1	13.21 GB	Finished	Finished	May 03, 2013	Summer 2011	04	49	57
+HD 720p	11eyes	12	1		3.91 GB	Finished	Finished	Nov 13, 2012	Fall 2009	05	23	45
+HD 720p	Accel World	24	1	6	13.98 GB	Finished	Finished	Jan 06, 2013	Spring 2012	10	20	59
+HD 720p	Acchi Kocchi	12	1		3.32 GB	Finished	Finished	Mar 24, 2013	Spring 2012	05	13	49
+HD 720p	AKB0048	13				Not Finished	Not Finished		Spring 2012	00	00	00
+HD 720p	AKB0048 Next Stage	13				Not the first season	Not Finished		Winter 2013	00	00	00
+HD 720p	Akikan!	12			2.68 GB	Finished	Finished	Jul 26, 2013	Winter 2008	04	42	19
+HD 720p	Amagami SS	26			11.70 GB	Not Finished	Not Finished		Summer 2010	00	00	00
+HD 720p	Amagami SS Plus	13		7	3.37 GB	Not Finished	Not Finished		Winter 2012	00	00	00
+HD 720p	Angel Beats!	12	1		4.43 GB	Finished	Finished	Oct 26, 2012	Spring 2010	05	59	37
+HD 720p	Ano Hi Mita Hana no Namae o Bokutachi wa Mada Shiranai	11			3.22 GB	Finished	Finished	Jul 18, 2013	Spring 2011	04	15	56
+HD 720p	Arcana Famiglia	12			3.78 GB	Finished	Finished	Oct 29, 2012	Summer 2012	04	44	22
+HD 720p	Area no Kishi	37			12.50 GB	Finished	Finished	May 16, 2013	Winter 2012	15	34	27
+HD 720p	Asu No Yoichi	12			2.05 GB	Finished	Finished	Jul 18, 2013	Winter 2009	04	15	11
+HD 720p	B Gata H Kei	12			4.10 GB	Finished	Finished	Nov 23, 2013	Spring 2010	04	57	50
+HD 720p	Ben-To	12			7.08 GB	Finished	Finished	Apr 19, 2013	Fall 2011	04	47	39
+HD 720p	Binbougami ga!	13			10.48 GB	Finished	Finished	Jun 05, 2013	Summer 2012	05	09	33
+HD 720p	Bleach Movies	4			3.09 GB	Finished	Finished	Dec 05, 2012	Winter 2006	06	13	33
+HD 720p	Boku ha Tomodachi ga Sukunai NEXT	12			2.92 GB	Not the first season	Not Finished		Winter 2013	00	00	00
+HD 720p	C³ - CubexCursedxCurious	12	1		4.09 GB	Finished	Finished	Dec 24, 2012	Fall 2011	04	55	25
+HD 720p	Campione!	13			4.11 GB	Finished	Finished	Dec 16, 2012	Summer 2012	05	07	54
+HD 720p	Chihayafuru	26			2.47 GB	Finished	Finished	Nov 21, 2013	Fall 2011	09	47	28
+HD 720p	Chihayafuru 2	25			17.18 GB	Not the first season	Finished	Feb 09, 2014		09	31	41
+HD 720p	Chuunibyou demo Koi ga Shitai!	12	1		3.42 GB	Finished	Finished	Dec 31, 2012	Fall 2012	04	46	28
+HD 720p	D.C - Da Capo	26			8.30 GB	Not Finished	Not Finished		Summer 2003	00	00	00
+HD 720p	D.C.II - Da Capo II (Season 3)	13			3.28 GB	Not the first season	Not Finished		Fall 2007	00	00	00
+HD 720p	D.C.II S.S. - Da Capo II Second Season (Season 4)					Not the first season	Not Finished		Spring 2008	00	00	00
+HD 720p	D.C.III - Da Capo III (Season 5)					Not the first season	Not Finished		Spring 2013	00	00	00
+HD 720p	D.C.S.S. - Da Capo Second Season (Season 2)	26			7.08 GB	Not the first season	Not Finished		Summer 2005	00	00	00
+HD 720p	Dakara Boku wa, H ga Dekinai	12		1	4.11 GB	Finished	Finished	Oct 06, 2012	Summer 2012	05	10	18
+HD 720p	Danshi Koukousei no Nichijou	12		7	6.33 GB	Finished	Finished	Apr 29, 2013	Winter 2012	05	08	43
+HD 720p	Dantalian no Shoka	12			30.79 GB	Finished	Finished	Aug 21, 2013	Summer 2011	04	51	53
+HD 720p	Dog Days Dash	13			4.81 GB	Not the first season	Finished	Jun 09, 2013	Summer 2012	05	12	35
+HD 720p	Fortune Arterial	12			4.08 GB	Finished	Finished	Dec 25, 2013	Fall 2010	05	04	43
+HD 720p	Girls und Panzer	12		2	8.91 GB	Finished	Finished	Aug 23, 2013	Fall 2012	05	38	25
+HD 720p	Gosick	24			9.57 GB	Finished	Finished	Jun 14, 2013	Winter 2010	09	43	44
+HD 720p	Hagure Yuusha no Estetica	12			3.17 GB	Finished	Finished	Jun 15, 2013	Summer 2012	04	47	17
+HD 720p	Haiyore! Nyaruko-san	12			10.89 GB	Finished	Finished	Jan 25, 2014	Spring 2012	04	47	34
+HD 720p	Hanasaku Iroha	26			16.37 GB	Finished	Finished	Jul 28, 2013	Spring 2011	10	16	43
+HD 720p	Hayate no Gotoku!	52			12.97 GB	Finished	Finished	May 02, 2013	Spring 2007	21	26	05
+HD 720p	Hayate no Gotoku! Can't Take My Eyes Off You (Season 3)	12			3.77 GB	Not the first season	Finished	Mar 30, 2013	Fall 2012	04	43	56
+HD 720p	Hayate No Gotoku! Heaven is a Place on Earth (Movie)	1			0.75 GB	Not the first season	Finished	Nov 08, 2012	Summer 2011	01	09	53
+HD 720p	Hayate no Gotoku!! Second Season	25	1		8.63 GB	Not the first season	Finished	May 05, 2013	Spring 2009	10	41	17
+HD 720p	Hidamari Sketch Hoshimittsu (Season 3)				3.10 GB	Not the first season	Not Finished		Winter 2010	00	00	00
+HD 720p	Hidamari Sketch x SP				0.40 GB	Not the first season	Not Finished		Fall 2011	00	00	00
+HD 720p	Hidan no Aria	13			13.06 GB	Not Finished	Not Finished			00	00	00
+HD 720p	Hyouka	22		1	6.35 GB	Finished	Finished	Jul 19, 2012	Spring 2012	00	00	00
+HD 720p	Infinite Stratos	12			7.80 GB	Finished	Finished	Apr 06, 2013	Winter 2011	04	49	44
+HD 720p	Inu x Boku SS	12			7.76 GB	Finished	Finished	Sep 21, 2013	Winter 2012	04	48	09
+HD 720p	Ixion Saga DT	13			4.24 GB	Not Finished	Not Finished			00	00	00
+HD 720p	K	13			3.99 GB	Finished	Finished	Aug 01, 2013		05	17	35
+HD 720p	Kaichou wa Maid-sama!	26	1	1	7.86 GB	Finished	Finished	Aug 17, 2013	Spring 2010	11	01	37
+HD 720p	Kamisama Dolls				4.29 GB	Not Finished	Not Finished		Summer 2011	00	00	00
+HD 720p	Kami-sama Hajimemashita	13			3.96 GB	Finished	Finished	Mar 25, 2013		05	14	55
+HD 720p	Kami-sama no Memo-chou	12			5.39 GB	Finished	Finished	Apr 01, 2013		05	07	42
+HD 720p	Kannagi	14			11.47 GB	Finished	Finished	Dec 26, 2013		05	04	16
+HD 720p	Kill Me Baby	13			16.12 GB	Finished	Finished	Aug 06, 2013	Winter 2012	05	13	39
+HD 720p	Kimi ni Todoke	25			7.53 GB	Finished	Finished	Aug 22, 2013		09	24	16
+HD 720p	Kimi ni Todoke 2nd Season	12		1	6.81 GB	Not the first season	Finished	Aug 26, 2013		04	51	15
+HD 720p	Kiss X Sis				7.25 GB	Finished	Finished	Nov 14, 2012	Spring 2010	00	00	00
+HD 720p	Kobato	24			5.10 GB	Finished	Finished	Apr 26, 2013		09	47	54
+HD 720p	Koi to Senkyo to Chocolate	12			3.33 GB	Finished	Finished	Dec 16, 2012	Summer 2012	00	00	00
+HD 720p	Kokoro Connect	13			3.93 GB	Finished	Finished	Dec 23, 2012	Summer 2012	00	00	00
+HD 720p	K-On!	14		7	4.70 GB	Finished	Finished	Oct 18, 2013	Spring 2009	05	56	45
+HD 720p	K-On! Movie - Eiga K-On! (1080p Available)	1			1.74 GB	Not the first season	Finished	Jan 25, 2013	Fall 2011	00	00	00
+HD 720p	K-On!!	24		3	7.35 GB	Not the first season	Finished	Dec 07, 2013	Spring 2010	10	52	46
+HD 720p	Kono Naka ni Hitori, Imouto ga Iru	12			2.89 GB	Finished	Finished	Dec 02, 2012	Summer 2012	00	00	00
+HD 720p	Kore wa Zombie Desu ka?	12	1		4.93 GB	Finished	Finished	Aug 03, 2013	Winter 2011	05	21	22
+HD 720p	Kyoukai Senjou no Horizon	13			13.52 GB	Finished	Finished	Nov 26, 2013	Fall 2011	05	16	27
+HD 720p	Kyoukai Senjou no Horizon II	13			8.30 GB	Not the first season	Finished	Dec 12, 2013	Summer 2012	05	14	03
+HD 720p	Little Busters!	26			15.43 GB	Finished	Finished	May 17, 2013	Fall 2012	10	15	19
+HD 720p	Love Live! School Idol Project	13			10.71 GB	Finished	Finished	Jul 06, 2013	Winter 2013	05	07	35
+HD 720p	Lucky Star	24				Not Finished	Not Finished			00	00	00
+HD 720p	Magi	25			9.29 GB	Finished	Finished	Jan 21, 2014		10	12	52
+HD 720p	Maji de Watashi ni Koi Shinasai!	12			4.37 GB	Finished	Finished	Jan 02, 2013	Fall 2011	00	00	00
+HD 720p	Maria Holic	12			15.94 GB	Finished	Finished	Feb 10, 2014	Winter 2009	04	55	01
+HD 720p	Maria Holic Alive	12			1.08 GB	Not the first season	Not Finished			00	00	00
+HD 720p	Mayo Chiki!	13			4.18 GB	Finished	Finished	Mar 12, 2013	Summer 2011	05	13	37
+HD 720p	Medaka Box	12			3.80 GB	Finished	Finished	Apr 06, 2013	Spring 2012	04	44	27
+HD 720p	Medaka Box Abnormal	12			3.78 GB	Not the first season	Finished	Dec 14, 2013		04	44	12
+HD 720p	Minami-ke	13			2.94 GB	Finished	Finished	Nov 26, 2013		05	14	08
+HD 720p	Minami-ke Okaeri	13			3.33 GB	Not Finished	Not Finished			00	00	00
+HD 720p	Minami-ke Okawari	13			2.95 GB	Not Finished	Not Finished			00	00	00
+HD 720p	Mondaijitachi ga Isekai Kara Kuru Sou Desu yo	10			3.19 GB	Finished	Finished	Nov 28, 2013		03	57	25
+HD 720p	Moshidora	10			8.14 GB	Finished	Finished	Jun 22, 2013	Winter 2011	04	10	25
+HD 720p	Natsuiro Kiseki	12	1		7.66 GB	Finished	Finished	Apr 21, 2013	Spring 2012	04	58	26
+HD 720p	Nazo no Kanojo X	13			4.09 GB	Finished	Finished	Nov 30, 2013	Spring 2012	05	08	04
+HD 720p	Nogizaka Haruka No Himitsu	12			4.95 GB	Finished	Finished	Apr 07, 2013		04	22	03
+HD 720p	Nogizaka Haruka No Himitsu Purezza	12			4.65 GB	Not the first season	Finished	Apr 11, 2013		04	58	27
+HD 720p	Oda Nobuna no Yabou	12			8.54 GB	Finished	Finished	Aug 23, 2013		04	53	53
+HD 720p	Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne	12			2.42 GB	Finished	Finished	Sep 08, 2013		04	54	00
+HD 720p	Ore no Imouto ga Konnani Kawaii Wake ga Nai	16			15.27 GB	Finished	Finished	Jun 06, 2013	Fall 2010	07	02	09
+HD 720p	Ore no Kanojo to Osananajimi ga Shurabasugiru	13			4.18 GB	Finished	Finished	Nov 03, 2013		05	07	26
+HD 720p	Rinne no Lagrange	12			9.20 GB	Finished	Finished	Dec 19, 2013	Winter 2012	04	45	27
+HD 720p	Rinne no Lagrange Season 2	12			8.39 GB	Not the first season	Finished	Jan 15, 2014	Summer 2012	04	43	38
+HD 720p	Robotics;Notes	11			4.26 GB	Not Finished	Not Finished		Fall 2012	00	00	00
+HD 720p	Ro-Kyu-Bu!	12			7.23 GB	Finished	Finished	Nov 15, 2013	Summer 2011	04	44	12
+HD 720p	Rosario + Vampire	13			4.48 GB	Finished	Finished	Oct 20, 2013		05	24	43
+HD 720p	Rosario + Vampire Capu2	13			4.27 GB	Not the first season	Finished	Nov 12, 2013		04	44	55
+HD 720p	Saki - Achiga-hen - Episode of Side-A	16			5.48 GB	Not the first season	Finished	Jun 02, 2013	Spring 2012	06	54	56
+HD 720p	Sakurasou no Pet na Kanojo	24			7.56 GB	Finished	Finished	Nov 04, 2013		09	28	48
+HD 720p	Sankarea	13			8.53 GB	Finished	Finished	Jul 15, 2013	Spring 2012	05	13	16
+HD 720p	Strike Witches 2	12			8.50 GB	Not the first season	Finished	Nov 05, 2013		04	55	49
+HD 720p	Suzumiya Haruhi no Shoushitsu (Movie)	1			3.26 GB	Not the first season	Finished	Jan 08, 2013		00	00	00
+HD 720p	Suzumiya Haruhi no Yuuutsu	28			9.08 GB	Finished	Finished	Jan 05, 2013		00	00	00
+HD 720p	Sword Art Online	25			7.84 GB	Finished	Finished	Dec 29, 2012	Summer 2012	00	00	00
+HD 720p	Tamako Market	12			13.28 GB	Finished	Finished	Dec 25, 2013	Winter 2013	04	43	43
+HD 720p	Tamayura ~Hitotose~	12		1	3.88 GB	Not Finished	Not Finished			00	00	00
+HD 720p	Tari Tari				3.74 GB	Finished	Finished	Nov 11, 2012	Summer 2012	00	00	00
+HD 720p	Tasogare Otome x Amnesia				8.35 GB	Finished	Finished	Aug 24, 2013	Spring 2012	04	44	40
+HD 720p	The iDOLM@STER	26			8.88 GB	Finished	Finished	Aug 18, 2013	Summer 2011	10	36	20
+HD 720p	To Aru Kagaku no Railgun	24			15.58 GB	Not the first season	Finished	Mar 30, 2013		09	31	54
+HD 720p	To Aru Majutsu no Index	24				Not Finished	Not Finished			00	00	00
+HD 720p	To LOVE-Ru Darkness (Season 3)	12	1		3.33 GB	Not Finished	Not Finished			00	00	00
+HD 720p	Toaru Majutsu no Index	24			7.83 GB	Finished	Finished	Sep 08, 2013		09	28	39
+HD 720p	Toaru Majutsu no Index II	24			8.05 GB	Not the first season	Finished	Oct 13, 2013	Fall 2010	09	28	44
+HD 720p	Toaru Majutsu no Index-tan	2			0.18 GB	Not the first season	Finished	Sep 08, 2013		00	15	36
+HD 720p	Tonari no Kaibutsu-kun	13			4.21 GB	Finished	Finished	Mar 26, 2013	Fall 2012	05	16	33
+HD 720p	Upotte!!	10			12.37 GB	Finished	Finished	Jan 24, 2014	Spring 2012	03	56	57
+HD 720p	Working!! 2	13			3.56 GB	Not the first season	Finished	Aug 11, 2013		05	10	59
+HD 720p	Yuru Yuri ??				3.74 GB	Not the first season	Finished	Oct 22, 2012	Summer 2012	00	00	00
+HD 720p	Zero no Tsukaima	13			13.77 GB	Finished	Finished	Nov 06, 2013		05	07	55
+HD 720p	Zero no Tsukaima Season 2 - Futatsuki no Kishi	12			12.68 GB	Not the first season	Finished	Nov 08, 2013		04	43	59
+HD 720p	Zero no Tsukaima Season 3 - Princesses no Rondo	12	1	1	14.32 GB	Not the first season	Finished	Nov 14, 2013		05	32	38
+HD 720p	Zero no Tsukaima Season 4 - Zero no Tsukaima F					Not the first season	Not Finished			00	00	00
+HQ 480p	Chobits				5.92 GB	Finished	Finished	Sep 21, 2012	Spring 2002	11	05	38
+HQ 480p	Fairy Tail	175			12.63 GB	Finished	Finished	Apr 21, 2013	Fall 2009	71	11	10
+HQ 480p	Fruits Basket	26			5.76 GB	Finished	Finished	Feb 14, 2013	Summer 2001	10	21	49
+HQ 480p	Gokujou Seitokai	26			4.53 GB	Finished	Finished	May 29, 2013	Spring 2005	10	28	29
+HQ 480p	Hidamari Sketch	12		2	2.73 GB	Finished	Finished	Nov 09, 2013	Winter 2007	05	38	00
+HQ 480p	Hidamari Sketch x365 (Season 2)				3.20 GB	Not the first season	Not Finished		Summer 2008	00	00	00
+HQ 480p	Hidamari Sketch x365 SP (Season 2)				0.46 GB	Not the first season	Not Finished		Summer 2008	00	00	00
+HQ 480p	Joshikousei	12		3	2.16 GB	Finished	Finished	May 10, 2013		05	08	11
+HQ 480p	Mahou Tsukai Tai				5.42 GB	Not Finished	Not Finished			00	00	00
+HQ 480p	My Hime				4.51 GB	Not Finished	Not Finished			00	00	00
+HQ 480p	Okusama Wa Joshikousei	13			2.36 GB	Not Finished	Not Finished			00	00	00
+HQ 480p	Omamori Himari	12			2.25 GB	Finished	Finished	Jan 08, 2014		04	44	57
+HQ 480p	REC	10			1.67 GB	Finished	Finished	Jun 29, 2013		02	14	51
+HQ 480p	Rozen Maiden	12			2.72 GB	Finished	Finished	Mar 28, 2013		04	50	34
+HQ 480p	Rozen Maiden Overture (OVA)	2			0.64 GB	Not the first season	Finished	Apr 13, 2013		00	47	49
+HQ 480p	Rozen Maiden Traumend (Season 2)	12			3.87 GB	Not the first season	Finished	Apr 13, 2013		04	51	45
+HQ 480p	Shinigami No Ballad - Momo, The Girl God Of Death	6			1.50 GB	Finished	Finished	May 14, 2013		02	27	51
+HQ 480p	Sketchbook ~full color'S~				5.03 GB	Not Finished	Not Finished			00	00	00
+HQ 480p	Strike Witches	12	1		3.15 GB	Finished	Finished	Apr 04, 2013		05	14	10
+HQ 480p	The iDOLM@STER XENOGLOSSIA	26			4.32 GB	Not the first season	Finished	Apr 02, 2013		10	16	21
